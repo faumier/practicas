@@ -1,6 +1,6 @@
 
 #solo para probar
-import sqlite3
+import sqlite2
 
 class conect ():
 
