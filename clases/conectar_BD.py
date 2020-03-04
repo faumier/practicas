@@ -14,6 +14,6 @@ class conect ():
 
         self.conector.close()
     
-
+ 
         
 
